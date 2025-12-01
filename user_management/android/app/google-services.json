@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668877109522",
+    "project_id": "user-management-be5cb",
+    "storage_bucket": "user-management-be5cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668877109522:android:a011bc5c6c594e7dc39bcb",
+        "android_client_info": {
+          "package_name": "com.example.user_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiHdVYEbmeHFwsb7GQnJ9fpmoqTnYzPMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

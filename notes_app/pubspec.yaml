@@ -1,0 +1,18 @@
+name: notes_app
+description: Simple notes app with sqflite local storage.
+publish_to: "none"
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.2.8
+  path_provider: ^2.0.14
+  path: ^1.8.3
+  intl: ^0.18.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
